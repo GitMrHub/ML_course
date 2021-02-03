@@ -1,5 +1,8 @@
 # ML_course
 
+![1](https://user-images.githubusercontent.com/52573418/106764526-89286c80-6640-11eb-9ff1-2f60977495ef.png)
+
+
 mlcourse.ai is an open Machine Learning course by OpenDataScience, lead by Yury Kashnitsky (yorko). 
 The course is designed to perfectly balance theory and practice.
 You can take part in several Kaggle Inclass competitions held during the course.
