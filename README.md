@@ -9,3 +9,5 @@ You can take part in several Kaggle Inclass competitions held during the course.
 From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course.
 Currently, the course is in a self-paced mode.
 Check out a thorough Roadmap guiding you through the self-paced mlcourse.ai.
+
+[Topic 1. Exploratory data analysis with Pandas](https://github.com/ValeriiSielikhov/Open-Machine-Learning-Course-mlcourse.ai/tree/master/Topic%201.%20Exploratory%20data%20analysis%20with%20Pandas)
